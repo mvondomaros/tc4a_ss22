@@ -1,4 +1,4 @@
-# TC-4a Summer Term 2022
+# TC-4a Exercises
 
 This repository contains materials for the course TC-4a, taught in the summer term 2022, at UMR.
 
